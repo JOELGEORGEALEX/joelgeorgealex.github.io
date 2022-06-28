@@ -4,6 +4,9 @@
 ### Projects
 #### Electronics projects
 - ESP32 minimal circuit [Link](https://github.com/JOELGEORGEALEX/esp32_minimal_circuit)
+- ESP32 CNC control board [Link](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller)
+- ESP32 developer board SPI CNC controller board [Link](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller)
+- Open source ventilator board [Link](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
