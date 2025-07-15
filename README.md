@@ -20,7 +20,7 @@
 
 - 🎓 Engineer passionate about robotics, embedded control, and assistive technologies.
 - 🌱 Currently building: **humanoid mechanisms**, **portable healthcare tools**, and **microcontroller-based motion systems**.
-- 📍 Based at [Kerala Startup Mission – Superfablab, Kochi](https://startupmission.kerala.gov.in/)
+- 📍 Based at IIT Madras Research Park,Chennai
 - 📫 Reach me at: jga4joel@gmail.com
 
 ---
