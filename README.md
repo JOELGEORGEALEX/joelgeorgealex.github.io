@@ -1,4 +1,4 @@
-# 👋 Welcome to My Project Index
+# 👋 welcome to my page
 
 > 🚀 A curated collection of projects exploring **robotics**, **embedded systems**, and **design engineering**, developed with passion and purpose.
 
@@ -29,7 +29,8 @@
 
 ### 📌 Recent Design Projects
 - 🔹 **[E-bike Converter](https://github.com/JOELGEORGEALEX/Design)** – Add-on friction-driven motor module
-- 🔹 **Portable Dental Kit** – Mobile service system carried via cycle
+- 🔹 **[Portable Dental Kit](https://github.com/JOELGEORGEALEX/Mechatronics_embedded/tree/main/Portable_Dental_kit)** – Mobile service system carried via cycle
+- 🔹 **[Humanoid_HeadAssembly](https://github.com/JOELGEORGEALEX/Robotics/tree/main/Head_humanoid)** – Mobile service system carried via cycle
 
 ### ⚙️ Hardware Systems
 - 🔸 **[Mechatronics Embedded Drivers](https://github.com/JOELGEORGEALEX/Mechatronics_embedded)** – Motor + sensor interfaces
