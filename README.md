@@ -12,7 +12,7 @@
 | 🤖 [**Robotics**](https://github.com/JOELGEORGEALEX/Robotics) | Mechanisms, simulations, and system-level design for humanoid and assistive robots. |
 | 🛠️ [**Design**](https://github.com/JOELGEORGEALEX/Design) | Product concepts, CAD renders, and functional mechanisms for medical, mobility, and smart systems. |
 | 🔧 [**ESP32-CNC-controller-SPI-version**](https://github.com/JOELGEORGEALEX/ESP32-CNC-controller-SPI-version) | Wireless SPI-based CNC controller built on the ESP32 platform. |
-| 🧭 [**INDEX**](https://github.com/JOELGEORGEALEX/INDEX) | This repository – acting as a central index for all my public work. |
+| 🧭 [**INDEX**](https://github.com/JOELGEORGEALEX/INDEX) | This repository contain my brief INTRO |
 
 ---
 
